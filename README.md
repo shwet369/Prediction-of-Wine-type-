@@ -1,4 +1,7 @@
-# Prediction-of-Wine-type-Using machine learning 
+#Food and Beverage
+## Prediction-of-Wine-type-Using machine learning
+
+
 Here we will predict the quality of wine on the basis of given features. We use the wine quality dataset available on Internet for free. This dataset has the fundamental features which are responsible for affecting the quality of the wine. By the use of several Machine learning models, we will predict the quality of the wine.
 ![image](https://github.com/shwet369/Prediction-of-Wine-type-/assets/136867631/1cab7298-dd9a-444c-8433-d3d43d84f8d9)
 
@@ -8,8 +11,10 @@ Here we will predict the quality of wine on the basis of given features. We use 
 - Seaborn/Matplotlib are used for data visualisation purpose.
 - Sklearn – This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation.
 - XGBoost – This contains the eXtreme Gradient Boosting machine learning algorithm which is one of the algorithms which helps us to achieve high accuracy on predictions.
-Food and Beverage Quality Prediction Using Machine Learning
-Overview:
+
+
+- Overview:
+
 This guide aims to help you get started with deep learning for predicting the quality of food and beverages using machine learning libraries like Keras. We will use the wine quality data set from the UCI Machine Learning Repository as an example.
 
 ## Data Set Description:
